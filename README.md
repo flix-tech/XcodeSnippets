@@ -19,6 +19,6 @@ Shortcut: `auto`.
 
 This snippet generates boilerplate for Mantle JSON transformer methods.
 
-Shortcurt: `mjsont`.
+Shortcut: `mjsont`.
 
 ![mantle-json-transformer](images/mantle-json-transformer.gif)
