@@ -15,6 +15,14 @@ Shortcut: `auto`.
 
 ![__auto_type](images/__auto_type.gif)
 
+## kvc-property-validator
+
+This snippet generates KVC property validator methods.
+
+Shortcut: `valid`
+
+![kvc-property-validator](images/kvc-property-validator.gif)
+
 ## mantle-json-transformer
 
 This snippet generates boilerplate for Mantle JSON transformer methods.
