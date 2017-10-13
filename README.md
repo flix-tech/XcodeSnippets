@@ -15,6 +15,14 @@ Shortcut: `auto`.
 
 ![__auto_type](images/__auto_type.gif)
 
+## default-init-unavailable
+
+This snippet generates default `-init` and `+new` method signatures with `NS_UNAVAILABLE` annotation.
+
+Shortcut: `uninit`
+
+![default-init-unavailable](images/default-init-unavailable.gif)
+
 ## kvc-property-validator
 
 This snippet generates KVC property validator methods.
